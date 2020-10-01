@@ -1,0 +1,13 @@
+Some commands to help:
+CMake build commands: 
+$ cmake -H. -Bbuild
+$ cmake --build build -- -j3
+
+CMake run commands: $ ./bin/hello
+
+
+
+Linux commands to copy file from one dir to another:
+$ cp -r [Filename] [SOurce] [Destination]
+the  paths should be from : /home/bin/...
+if your are any of the dir and want to copy from here or to here put: "."
